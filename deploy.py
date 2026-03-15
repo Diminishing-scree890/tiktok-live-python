@@ -17,7 +17,20 @@ import subprocess
 import sys
 
 
+def load_dotenv():
+    """Load .env file from same directory as this script."""
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '.env')
+    if os.path.exists(env_path):
+        with open(env_path) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    key, _, value = line.partition('=')
+                    os.environ.setdefault(key.strip(), value.strip())
+
+
 def main():
+    load_dotenv()
     use_test = "--test" in sys.argv
 
     token = os.environ.get("PYPI_TOKEN", "")
